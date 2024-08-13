@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thoratamey&label=Profile%20views&color=0e75b6&style=flat" alt="thoratamey" /> </p>
 
-- 🔭 I’m currently working on [Smart Attendance Monitoring Based On Facial Recognition](https://github.com/thoratamey/SmartAttendanceMonitoringSystemUsingFacialRecognition)
+- 🔭 I’m currently working in [Ford Business Solution as Intern](@ford)
+
+- 🔭 I’m currently completed project on [Smart Attendance Monitoring Based On Facial Recognition](https://github.com/thoratamey/SmartAttendanceMonitoringSystemUsingFacialRecognition)
 
 - 🌱 I’m currently learning **Full Stack Development, Cloud Computing, Cyber Security**
 
